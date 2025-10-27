@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/seuusuario">
-    <img src="https://img.shields.io/github/followers/seuusuario?label=Follow&style=social" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/mauricio-suzuki?label=Follow&style=social" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/seulinkedin">
     <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn">
