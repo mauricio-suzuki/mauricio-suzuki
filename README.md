@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
 
-<!--
-**mauricio-suzuki/mauricio-suzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor focado em transformar dados em decisões e soluções inteligentes.<br>
+  Apaixonado por tecnologia, automação e visualização de dados.
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Tecnologias que uso</h2>
+<ul>
+  <li><strong>C#</strong> – Aplicações robustas e escaláveis</li>
+  <li><strong>Python</strong> – Scripts inteligentes e automações</li>
+  <li><strong>Power BI</strong> – Dashboards interativos e análises visuais</li>
+  <li><strong>SQL</strong> – Consultas otimizadas e modelagem de dados</li>
+  <li><strong>Excel</strong> – Ferramentas ágeis para análise e controle</li>
+</ul>
+
+<h2>📈 Foco atual</h2>
+<p>
+  Estou aprimorando soluções de BI, integrando automações com Python e desenvolvendo ferramentas que aceleram processos internos.
+</p>
+
+<h2>📫 Contato</h2>
+<p>
+  Quer trocar ideias ou colaborar em projetos? Me encontre por aqui ou no <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>.
+</p>
+
+<hr>
+
+<p align="center">
+  <em>Obrigado por visitar meu perfil! 🚀</em>
+</p>
