@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou <strong>José Mauricio</strong></h1>
-<p align="center">🎓 Estudante de Sistemas de Informação | 📊 Analista de Dados | 📚 Apaixonado por transformar dados em histórias</p>
+<p align="center">🎓 Estudante de Sistemas de Informação | 📊 Analista de Dados</p>
 
 <p align="center">
   <a href="https://github.com/mauricio-suzuki">
@@ -16,7 +16,7 @@
 ## 🚀 Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,cs" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,cs,azure,github" alt="Tecnologias que uso" />
 </p>
 
 ---
