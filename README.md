@@ -15,7 +15,7 @@
 
 <h2 align="center">🚀 Tecnologias que uso</h2>
 <p align="center">
-(https://skillicons.dev/icons?i=py,mysql,cs)](https://skillicons.dev)
+https://skillicons.dev/icons?i=py,mysql,cs)](https://skillicons.dev
 </p>
 
 <hr>
