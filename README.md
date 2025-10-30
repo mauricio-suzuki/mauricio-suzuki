@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou <strong>José Mauricio</strong></h1>
+<h1 align="center">👋 Olá, eu sou o <strong>Mauricio</strong></h1>
 <p align="center">🎓 Estudante de Sistemas de Informação | 📊 Analista de Dados</p>
 
 <p align="center">
