@@ -21,14 +21,6 @@
 
 ---
 
-## 📌 Sobre mim
-
-Sou estudante de **Sistemas de Informação** e atuo como **Analista de Dados**. Minha jornada começou no atendimento ao cliente e evoluiu para projetos acadêmicos, onde desenvolvi habilidades de comunicação, escuta ativa e resolução de problemas.
-
-Hoje, mergulho em **SQL**, **Python**, **Power BI** e **Excel** para transformar dados em insights relevantes. Estou me aprofundando em **Inteligência Artificial** e **Computação em Nuvem** para acompanhar as tendências e me preparar para os próximos desafios.
-
----
-
 ## 📊 O que você vai encontrar por aqui
 
 - 🐍 Projetos de automação com **Python** e **C#**
@@ -40,8 +32,7 @@ Hoje, mergulho em **SQL**, **Python**, **Power BI** e **Excel** para transformar
 
 ## 🎯 Foco atual
 
-Aprimorar soluções de **Business Intelligence**, explorar **Inteligência Artificial** e **Computação em Nuvem**, e desenvolver ferramentas que ajudem empresas e pessoas a tomarem decisões baseadas em dados de qualidade.
-
+Estou focado em aplicar Análise de Dados e Inteligência de Negócios para otimizar processos e impulsionar decisões estratégicas. Meu objetivo é transformar dados brutos em insights acionáveis que ajudem empresas a identificar oportunidades, reduzir ineficiências e alcançar melhores resultados. Acredito que dados bem tratados são a chave para inovação e crescimento sustentável.
 ---
 
 ## 📫 Contato
