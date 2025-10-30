@@ -2,9 +2,6 @@
 <p align="left">🎓 Estudante de Sistemas de Informação | 📊 Analista de Dados</p>
 
 ---
-
-## 🚀 Tecnologias que uso
-
 <p align="left">
  ## 🚀 Tecnologias que eu uso
 
@@ -21,9 +18,6 @@
 
 ---
 
-
-
----
 
 ## 📫 Contato
 
